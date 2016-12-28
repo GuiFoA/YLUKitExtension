@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.name         = "YLUKitExtension"
   s.version      = "1.0.0"
   s.summary      = "KitExtension"
-  s.homepage     = "https://github.com/GuiFoA/YLUKitExtension.git"
+  s.homepage     = "http://www.jianshu.com/users/d2c069de1a7d"
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
@@ -15,10 +15,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/GuiFoA/YLUKitExtension.git", :tag => "#{s.version}" }
 
-  s.vendored_frameworks = 'YLUKitExtension.framework'
-  
-  s.xcconfig = { "LIBRARY_SEARCH_PATHS" => "$(PODS_ROOT)/YLUKitExtension/**" }
-
+  s.vendored_frameworks = 'UKitExtension.framework'
 
   s.requires_arc = true
 
