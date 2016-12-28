@@ -1,0 +1,6 @@
+framework module UKitExtension {
+  umbrella header "UKitExtension.h"
+
+  export *
+  module * { export * }
+}
