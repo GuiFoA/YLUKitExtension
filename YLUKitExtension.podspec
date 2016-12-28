@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YLUKitExtension"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "KitExtension"
   s.homepage     = "http://www.jianshu.com/users/d2c069de1a7d"
 
