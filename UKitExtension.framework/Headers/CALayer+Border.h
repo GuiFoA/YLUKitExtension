@@ -13,4 +13,6 @@
 
 @property (nonatomic, retain) id BorderColorFromUIColor;
 
+@property (nonatomic, assign) BOOL AdDefaultShaow;
+
 @end

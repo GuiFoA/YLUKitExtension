@@ -9,6 +9,10 @@
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 
+#define FONT_SIZE_small 1
+#define FONT_SIZE_medium 1
+#define FONT_SIZE_big 1.104
+
 @interface UIButton (ScaleFont)
 
 @end

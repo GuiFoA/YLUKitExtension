@@ -57,6 +57,9 @@
  */
 - (BOOL)validateNickName;
 
+///真实姓名
+- (BOOL)validateRealName;
+
 /**
  自己写正则传入进行判断
 
